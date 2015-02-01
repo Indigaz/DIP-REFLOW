@@ -1,0 +1,4 @@
+<b>All through-hole, Arduino Reflow Oven Controller</b>
+<p>This is an all hand-assembleable, Arduino powered reflow oven controller that makes use of an Adafruit SPI MAX31855 Thermocouple amplifier.  Ease of assembly is of upmost importance!  All components are hand solderable with the only surface mount part (MAX31855) having soldered on pins that will seat into a header.</p>
+<b>Bill of Materials:</b>
+*To be added*
