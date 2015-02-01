@@ -1,0 +1,3 @@
+**Note, as of 01FEB2015, this board and schematic have not been tested on a manufactured board.  This .BRD will soon be sent to 
+OSHPark to be manufactured.  After that, they will assembled and
+tested and this file and directory will be updated to confirm that the board as presented is a working version.**
