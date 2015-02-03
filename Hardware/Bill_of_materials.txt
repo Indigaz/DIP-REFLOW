@@ -1,0 +1,30 @@
+
+
+DIP_REFLOW's initial Bill-of-materials:
+
+
+Qty (1) ATMEGA328PDIP  (with or without Arduino bootloader.  ICSP worked into board.)
+Qty (1) MAX31855 Breakout board (http://www.adafruit.com/product/269)
+Qty (1) K-type thermocouple (Found on Adafruit, eBay or many other sites.)
+Qty (1) 16x4 HD44780 Character LCD Display Module (Various sites)
+Qty (1) 16 Mhz Crystal oscillator (Various sites)
+Qty (1) 10k Ohm potentiometer (Various sites)
+Qty (2) LED's (One RED and on GREEN) (Various sites)
+Qty (3) Push button momentary switch (Various sites)
+Qty (3) 2N3904 Transistor
+Qty (2) 22pF Ceramic caps
+Qty (3) .1uF Ceramic caps
+Qty (3) 10k Ohm resistors
+Qty (2) 330 Ohm resistors
+Qty (4) Small 2 screw terminals
+Qty (1) 3X2 ICSP header
+Qty (1) 6 pin female header for MAX31855 breakout
+Qty (1) 6 pin male or female header depending on your FTDI breakout
+Qty (1) 7805 in TO220 size
+
+
+This is just a quick draft to get information up and available.  I will later create a proper BOM
+with part numbers and source location.
+
+If anyone notices a problem, please alert me!  I'm pretty sure I've forgotten something.  Thanks!
+
